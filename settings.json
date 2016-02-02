@@ -1,0 +1,27 @@
+{
+"blog": {
+  "url":"katevontaine.github.io/newBlog",
+ "title": "Kate Wilson",
+ "description": "My space for space",
+ "logo": "https://avatars.githubusercontent.com/u/115030?v=3",
+ "cover": "assets/images/coverArt.jpg",
+ "social": {
+   "twitter": "katevontaine",
+   "github": "katevontaine",
+   "linked": "katevontaine",
+   "instagram": "katevontaine"
+ },
+ "google_analytics": "UA-73219845-1",
+ "disqus_shortname": "katevontaine"
+},
+"authors": {
+ "default": {
+   "name": "Kate Wilson",
+   "bio": "Exploring trials & triumphs of coding and development in Charleston.",
+   "website": "http://ktevontaine.github.io",
+   "image": "https://avatars.githubusercontent.com/u/115030?v=3",
+   "cover": "http://lorempixel.com/1100/425/animals/",
+   "slug": "Kate"
+ }
+}
+}
